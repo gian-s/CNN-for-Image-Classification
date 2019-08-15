@@ -7,4 +7,4 @@ Install NumPy, MatPlotLib, OpenCV, and the TensorFlow. Download Dataset from Kag
 ## Testing
 To view graphical analysis of models use TensorBoard callbacks. See https://github.com/tensorflow/tensorboard for overview of TensorBoard and logs analysis. 
 
-To test model using any image, use the test.py, and edit the location path for the image. 
+To test model using any image, use the test.py, and edit the location path for the image
