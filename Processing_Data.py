@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import os
 import cv2
 
-data_dir = "C:/Users/gianc/OneDrive/Desktop/PetImages"
+data_dir = "<directory where images are stored>"
 CATEGORIES = ["Dogs" , "Cats"]
 
 
